@@ -347,7 +347,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb0281b56aa16644ab00fa31fb5f2e55, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Oculus: 1
   parentPath_vr: VROnly/XR Origin/Camera Offset/Camera VR
   parentPath_mobile: MobileOnly/Camera Mobile
   rotation: {x: 0, y: 0, z: 0}
